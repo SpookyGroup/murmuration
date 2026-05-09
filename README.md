@@ -194,6 +194,8 @@ Murmuration is part of the [Gnosquam](https://gnosquam.com) sovereign AI archite
 
 Built by Ghost.
 
+*Victory, but engineered.*
+
 ---
 
 ## License
